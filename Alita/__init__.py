@@ -54,7 +54,7 @@ LOGGER.info("|      Tɪɢᴇʀ Sʜʀᴏғғ     |")
 LOGGER.info("------------------------")
 LOGGER.info(f"Version: {Config.VERSION}")
 LOGGER.info(f"Owner: {str(Config.OWNER_ID)}")
-LOGGER.info("Source Code: https://github.com/200920082007/TigerShroff\n")
+LOGGER.info("Source Code: https://github.com/Azanpopz/MOVIE-EMPIRE\n")
 
 # Account Related
 BOT_TOKEN = Config.BOT_TOKEN
